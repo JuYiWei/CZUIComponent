@@ -54,6 +54,7 @@
 		8442447B225C46CE00EB432E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84424488225C46F200EB432E /* CZOnePixelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZOnePixelView.h; sourceTree = "<group>"; };
 		84424489225C46F200EB432E /* CZOnePixelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZOnePixelView.m; sourceTree = "<group>"; };
+		844244DB225C495500EB432E /* UIComponentHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIComponentHeader.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +140,7 @@
 		84424487225C46DA00EB432E /* UIComponent */ = {
 			isa = PBXGroup;
 			children = (
+				844244DB225C495500EB432E /* UIComponentHeader.h */,
 				84424488225C46F200EB432E /* CZOnePixelView.h */,
 				84424489225C46F200EB432E /* CZOnePixelView.m */,
 			);

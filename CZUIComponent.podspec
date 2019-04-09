@@ -1,17 +1,17 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "UIComponent"
+  s.name         = "CZUIComponent"
   s.version      = "0.0.1"
-  s.summary      = "cz self UIComponent summary"
-  s.description  = "cz self UIComponent description"
-  s.homepage     = "https://github.com/JuYiWei/UIComponent"
+  s.summary      = "cz self CZUIComponent summary"
+  s.description  = "cz self CZUIComponent description"
+  s.homepage     = "https://github.com/JuYiWei/CZUIComponent"
   s.license      = "MIT"
   s.author       = { "juyw" => "757832801@qq.com" }
   s.platform     = :ios, "9.0"
 
 # 资源
-  s.source       = { :git => "https://github.com/JuYiWei/UIComponent.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/JuYiWei/CZUIComponent.git", :tag => "#{s.version}" }
 
 
   # s.source_files  = "CZCategory/CZCategory/Category/*.{h,m}"
