@@ -1,0 +1,11 @@
+
+
+
+
+
+
+pod spec lint CZUIComponent.podspec --use-libraries --allow-warnings --verbose
+pod trunk push CZUIComponent.podspec --use-libraries --allow-warnings --verbose
+
+
+pod search CZUIComponent --simple
